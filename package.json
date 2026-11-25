@@ -1,0 +1,1 @@
+{"description":"Tell a Whole Story in 32 Characters — one Wi-Fi name that implies a whole story (make.fun bounty entry)","license":"MIT","main":"main.ts","name":"makefun-32char-story","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
